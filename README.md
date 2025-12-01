@@ -46,7 +46,6 @@ Source: https://github.com/xinntao/Real-ESRGAN
 |  <img width="1726" height="871" alt="image" src="https://github.com/user-attachments/assets/c8e4d64f-0316-403c-be5c-4c5efbceb6b4" /> | <img width="1823" height="871" alt="image2" src="https://github.com/user-attachments/assets/8395a1a4-49cf-42ec-b60a-139fb4d768f1" />|
 
 
-![image.png](attachment:748671ad-c709-4c45-9e6b-e7a9dca49f62:cf10e905-c088-47cb-886a-055add23b5b8.png)
 
 ## Violence Detecting
 
