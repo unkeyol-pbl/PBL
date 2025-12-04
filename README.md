@@ -58,12 +58,12 @@ Stage 1: Coarse violence / non-violence detection
 
 - use GCN-BiLSTM model
 - Clear, large-scale violent actions (e.g., hitting, pushing, shoving) are filtered at this stage.
-<img width="465" height="152" alt="3" src="https://github.com/user-attachments/assets/ea415dcb-6c40-46c7-8511-839ac6fcf3fa" />
+<img width="505" height="212" alt="Image" src="https://github.com/user-attachments/assets/44804edd-18eb-4cde-8181-a51fb1a8e057" />
 
 
 - Only clips classified as **non-violent or containing subtle motions** are forwarded to Stage 2 for fine-grained analysis.
     
- <img width="625" height="573" alt="Image" src="https://github.com/user-attachments/assets/3b4cceb0-d2f0-4801-b2e1-ae6d993397b7" />
+ <img width="700" height="542" alt="Image" src="https://github.com/user-attachments/assets/b1718d78-f7dc-4a11-971c-72d8643fcf2f" />
 
     
 
