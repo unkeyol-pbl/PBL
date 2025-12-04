@@ -63,7 +63,7 @@ Stage 1: Coarse violence / non-violence detection
 
 - Only clips classified as **non-violent or containing subtle motions** are forwarded to Stage 2 for fine-grained analysis.
     
- <img width="763" height="574" alt="4" src="https://github.com/user-attachments/assets/a495f39d-5385-4b12-974d-e3a185453060" />
+ <img width="625" height="573" alt="Image" src="https://github.com/user-attachments/assets/3b4cceb0-d2f0-4801-b2e1-ae6d993397b7" />
 
     
 
