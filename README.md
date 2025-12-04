@@ -37,6 +37,11 @@ Automatic detection of macro/micro violence and hand pinching gestures in elderl
 - YOLOv8 object detection model
 - MediaPipe Hands/FaceMesh for keypoint extraction
 
+## Dataset
+
+This video dataset used in this project is available on Google Drive : 
+https://drive.google.com/file/d/17GROsHq_Ey3XYCGhaHTmupkAlt3HjHLV/view?usp=drive_link
+
 ## Video Processing Enhancement (Real-ESRGAN)
 
 Source: https://github.com/xinntao/Real-ESRGAN
@@ -77,7 +82,7 @@ Stage 2: Micro-violence detection tailored to nursing-home environments
     - YOLOv8 → bounding boxes for people and surrounding objects
     - These three sources are fused to analyze hand–face–object interaction context.
     - Classification model: MLP-based pinch classifier (`skeleton_pinch_v3.keras`)
-
+ 
 ## Usage
 
 Run the main pipeline with:
@@ -85,6 +90,7 @@ Run the main pipeline with:
 ```bash
 python run.py
 ```
+
 
 **Note:** The preprocessing step for raw videos can take a long time.
 
